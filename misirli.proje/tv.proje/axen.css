@@ -1,0 +1,19 @@
+body{
+    background-color: darkseagreen;
+}
+h1{
+    text-align: center;
+    background-color: aliceblue;
+    text-shadow: 1px 0px 1px;
+    width: fit-content;
+    padding: auto;
+    margin: auto;
+    border: solid 2px rgb(238, 97, 46) ;
+    border-radius: 20px;
+}
+p{
+    text-align: center;
+    background-color: aliceblue;
+    border: solid 2px rgb(238, 97, 46);
+    border-radius: 20px;
+}

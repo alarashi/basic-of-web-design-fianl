@@ -1,0 +1,53 @@
+ body{
+    background-image: url('background.jpg');
+    background-repeat: repeat-x;
+    background-position:auto ;
+     background-size: contain; 
+    opacity: 20;
+}
+ h1{
+    text-align: center;
+    background-color: #fff;   
+    border:inset;
+    
+}
+p{
+    border:ridge;
+    text-align: justify;
+}
+.ama{
+    outline-style: 5px solid red ;
+    
+}
+hr{
+    background-color: black;
+}
+ul{
+    list-style: none;
+    background-color: rgb(252, 252, 252);
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    width: cover;
+    
+}
+.apple li  {
+
+    background-color: rgba(190, 172, 56, 0.859);
+    padding: 5%;
+    border-style: dashed double inset groove ;
+    border-color: blue red mediumaquamarine;
+    border-bottom-width: 1px;
+    border-radius: 20px;
+    border-left: solid 5px rebeccapurple;
+    border-top-right-radius:20px
+    float- left;
+    display:inline-block
+}  
+.img div img{
+    float: left;
+    display: inline-block;
+    padding:5%;
+    width: 200px;
+    
+}

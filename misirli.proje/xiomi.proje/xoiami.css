@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(240, 240, 255);
+    
+}
+h2{
+     border-bottom: 5px blue solid ;
+    border-top: 5px blue solid ;
+   color: darkblue;
+   width: fit-content;
+   padding: auto;
+   margin: auto; 
+  
+  
+}
+ span p{
+    background-color: blue;
+    height: 10px;
+    width: auto;
+    color: blue;
+    overflow: hidden;
+}
+div p{
+    background-image: url('xooback.jpg');
+    opacity: .9;
+    
+}
+.xiaomi1,
+.xiaomi2,
+.xiaomi3,
+.xiaomi4{
+    background-color:#eee;
+    color: blue;
+    width: fit-content;
+}
+.xoo,
+.xooa,
+.xoob,
+.xooc{
+    width: 20%;
+    height: 500;
+    padding: 20px;
+    margin: 10px;
+    border: 5px double blue ;
+}

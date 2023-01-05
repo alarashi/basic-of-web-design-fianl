@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(194, 194, 82);
+    background-image: url('tvsony.jpg');
+    background-size: cover;
+}
+div{
+    text-align: center;
+    font-style: italic;
+    padding:20px;
+    background-color: #fff; 
+    color: blueviolet; 
+    font-size:20px; 
+    border-radius: 40px; 
+    border:2px solid rgb(0, 0, 0);
+    text-transform: capitalize;
+}
+div p{
+    border:2px solid;
+    border-radius:30px;
+    border-color:inherit; 
+    color: blueviolet;
+}
+div span{
+    background-color:#fff;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ul li{
+    width:165px;
+    height: 40px;
+    background-color: rgb(238, 238, 238);
+    font-size: 15px;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    opacity: 10px;
+    float: left;
+}
+ul li a{
+    text-decoration: none;
+    color: blue;
+    display: block;
+    
+}
+ul li a:hover{
+    background-color: rgb(248, 248, 248);
+}
+ul li ul li{
+    display: none;
+}
+ul li ul li{
+    display: block;
+}
+.sonyp{
+    display:inline;
+}
+
+
+
+
+

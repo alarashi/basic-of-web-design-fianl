@@ -1,0 +1,71 @@
+body{
+     /* background-color: #ddd;
+     padding: 10px 100px; 
+     padding-left: 80%; 
+     margin-left: 60%; 
+    width: 15%;
+    margin: auto;
+     margin-left: auto;
+    margin-right: auto;  
+    border-width: 5px;
+    border-color: brown ;
+     border-style: double;
+     border: 1px solid blue; 
+     border-radius: 20px;
+     outline: 10px double green;  */
+     
+}
+ /* 
+span{
+    background-color: #eee;
+    display: inline-block;
+   padding: 10px;
+    margin: 10px;
+    width: 300px;
+    height: 30px; 
+}
+
+
+.one,
+.two,
+.three,
+.for {
+    padding:10px ;
+    border-bottom: double 33px;
+    margin: 10px 10px;
+    
+
+}*/
+h1{
+   /* background-color:#eee;
+   color: brown;
+   text-shadow: 0 0 0 red;
+   width: 50;
+     text-align: right; 
+    padding: 0%;
+    margin: 0%;
+
+    text-transform: capitalize; yazilarin illk harifni  buyuk yapar
+    letter-spacing:harflar arasi bosluk ;
+    word-spacing: kelimelerin arasi uzaklastirma ;
+    text-indent:kelimeleri uzaklastirma ;
+    line-height: yukseklik;
+    white-space: normal;koudun width'in kalibina gore uzunluk siniri yapar ;
+    background-color: #eee;
+    white-space: nowrap; asagi inmeden  ayni satirda yazmayi sagliyor
+    width: 200px;
+    word-break:all-break word ;cumlenin uzunluguna gore background-color yapar;*/  
+    /* overflow: hidden; widthe gore sinirladin bututn kelimeler gozukmesin */
+    /* text-overflow: ellipsis; /overflow: hidden ile sakladin kelimelri (...)ile belirler */
+    /* border: inherit>>> ondan onceeki kilastan ozelligini alma; */
+}
+.anadiv{
+    background-color:#333;
+    width: 100%;
+    padding: 30%;
+    right: 0;
+    left: 0;
+}
+
+
+

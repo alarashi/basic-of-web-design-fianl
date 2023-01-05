@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(185, 221, 216, 0.949);
+    
+}
+p{
+    text-align: center;
+}
+h2{
+    background-color:blue;
+    color:white;
+    width: 120px;
+    text-align: center;
+}
+.sam1{
+    padding: -50px;
+    float:right ;
+
+}
+.sam3{
+    
+
+}
